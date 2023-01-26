@@ -9,3 +9,4 @@ We assumed that in the first week, all patients should be hospitalized on the de
 The results of solving benchmark instances are as follows:
 
 [Result.pdf](https://github.com/MotahareAkhlaghi/Patient-Admission-Scheduling/files/10508331/Result.pdf)
+
